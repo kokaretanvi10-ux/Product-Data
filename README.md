@@ -6,6 +6,8 @@ This project demonstrates the transformation of raw text-based data (Notepad for
 
 The focus of this project was on data cleaning, structuring, and visualization, turning unorganized data into actionable insights.
 
+📷 Dashboard Preview - https://www.linkedin.com/feed/update/urn:li:activity:7468976706825949184/
+
 🎯 Key Objectives
 
     •	Convert unstructured text data into a structured dataset 
